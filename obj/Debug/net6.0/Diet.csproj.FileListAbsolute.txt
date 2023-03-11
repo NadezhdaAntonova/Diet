@@ -1,0 +1,558 @@
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\appsettings.Development.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\appsettings.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Diet.staticwebassets.runtime.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Diet.exe
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Diet.deps.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Diet.runtimeconfig.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Diet.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Diet.pdb
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Humanizer.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\MessagePack.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Common.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.csproj.AssemblyReference.cache
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.AssemblyInfoInputs.cache
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.AssemblyInfo.cs
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.csproj.CoreCompileInputs.cache
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.MvcApplicationPartsAssemblyInfo.cs
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.MvcApplicationPartsAssemblyInfo.cache
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.RazorAssemblyInfo.cache
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.RazorAssemblyInfo.cs
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.Diet.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.build.Diet.props
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Diet.props
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Diet.props
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets.build.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets.development.json
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\scopedcss\bundle\Diet.styles.css
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\scopedcss\projectbundle\Diet.bundle.scp.css
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.csproj.CopyComplete
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\refint\Diet.dll
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.pdb
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\Diet.genruntimeconfig.cache
+E:\Nadi\VS Проекти\Jivko's classes\Diet\Diet\Diet\obj\Debug\net6.0\ref\Diet.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\appsettings.Development.json
+D:\Diet\Diet\Diet\bin\Debug\net6.0\appsettings.json
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Diet.staticwebassets.runtime.json
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Diet.exe
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Diet.deps.json
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Diet.runtimeconfig.json
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Diet.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Diet.pdb
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Humanizer.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\MessagePack.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Common.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diet\Diet\Diet\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.csproj.AssemblyReference.cache
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.AssemblyInfoInputs.cache
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.AssemblyInfo.cs
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.csproj.CoreCompileInputs.cache
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.MvcApplicationPartsAssemblyInfo.cs
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.MvcApplicationPartsAssemblyInfo.cache
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.RazorAssemblyInfo.cache
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.RazorAssemblyInfo.cs
+D:\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets.build.json
+D:\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets.development.json
+D:\Diet\Diet\Diet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Diet\Diet\Diet\obj\Debug\net6.0\scopedcss\bundle\Diet.styles.css
+D:\Diet\Diet\Diet\obj\Debug\net6.0\scopedcss\projectbundle\Diet.bundle.scp.css
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.csproj.CopyComplete
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.dll
+D:\Diet\Diet\Diet\obj\Debug\net6.0\refint\Diet.dll
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.pdb
+D:\Diet\Diet\Diet\obj\Debug\net6.0\Diet.genruntimeconfig.cache
+D:\Diet\Diet\Diet\obj\Debug\net6.0\ref\Diet.dll
+D:\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.Diet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.build.Diet.props
+D:\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Diet.props
+D:\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Diet.props
+D:\Diet\Diet\Diet\obj\Debug\net6.0\staticwebassets.pack.json
